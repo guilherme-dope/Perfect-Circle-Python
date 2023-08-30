@@ -1,5 +1,4 @@
 # Perfect-Circle-Script
-#Python
 Neal Fun - Perfect Circle "Auxiliar Program"
 <br>
 [Script Working Video](https://youtu.be/HI-aJYgNrtM)
